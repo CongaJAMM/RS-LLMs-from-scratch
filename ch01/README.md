@@ -15,7 +15,7 @@ In the video below, I share my personal approach to setting up a Python environm
 <br>
 <br>
 
-[![Link to the video](https://img.youtube.com/vi/yAcWnfsZhzo/0.jpg)](https://www.youtube.com/watch?v=yAcWnfsZhzo)
+[![Link to the VIDEO](https://img.youtube.com/vi/yAcWnfsZhzo/0.jpg)](https://www.youtube.com/watch?v=yAcWnfsZhzo)
 
 <br>
 <br>
