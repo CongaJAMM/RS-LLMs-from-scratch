@@ -209,7 +209,7 @@ class GPTModel(nn.Module):
         x = self.drop_emb(x)
         x = self.trf_blocks(x)
         x = self.final_norm(x)
-        logits = self.out_head(x)
+        logits = self.out_head(x)   # Shape [batch_size, num_tokens, emb_size]
         return logits
 
 
